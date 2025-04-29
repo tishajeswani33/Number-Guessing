@@ -22,9 +22,7 @@ or copy the codeand try it on your own device.
 To quit the game anytime, press ctrl+c
 ## Online Compile
 
-Compile this game in online plateform
 
-- [Compile Here](https://replit.com/@AbhiDadhaniya/Casino-Game#main.cpp)
 
   
 ## Code of this game
